@@ -1,6 +1,6 @@
-# 📊 Sorting Algorithm Benchmark
+# Sorting Algorithm Benchmark
 
-## 📋 Description
+## Description
 
 This program benchmarks the performance of four classic sorting algorithms:
 
@@ -29,7 +29,7 @@ Each algorithm is tested with arrays of increasing size, and the results are ave
      <algorithm>  <size>  <average_time>
      ```
 
-## ✅ Compile & Run
+## Compile & Run
 
 Make sure all `.cpp` and `.h` files are in the same directory.
 
